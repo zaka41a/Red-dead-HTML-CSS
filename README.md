@@ -21,6 +21,4 @@ Built with **HTML5** and **CSS3**, it showcases the **universe, characters, game
 - **CSS3** (Flexbox & Grid)  
 - **JavaScript (Vanilla)** → for mobile menu toggle  
 
----
 
-## 📂 Project Structure  
